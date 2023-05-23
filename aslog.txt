@@ -1,0 +1,84 @@
+2023-03-24 18:25:14.108565$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:25:14.108625$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:25:14.108706$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:25:14.147724$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:25:14.147764$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:25:14.147794$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:25:14.173010$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:25:14.173077$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:25:14.173148$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:29:32.675052$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:29:32.675100$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:29:32.675191$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:29:32.741403$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:29:32.741446$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:29:32.741479$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:29:32.795624$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:29:32.795695$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:29:32.795748$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:32:24.148023$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:32:24.148071$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:32:24.148126$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:32:24.169329$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:32:24.169370$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:32:24.169402$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:32:24.257426$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:32:24.257500$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:32:24.257564$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:34:07.388112$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:34:07.388155$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:34:07.388186$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:34:07.424284$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:34:07.424325$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:34:07.424357$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:34:07.451340$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:34:07.451412$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:34:07.451472$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:40:56.853245$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:40:56.853291$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:40:56.853352$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:40:57.017410$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:40:57.017459$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:40:57.017517$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:40:57.044098$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:40:57.044172$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:40:57.044265$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:42:17.027706$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:42:17.027748$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:42:17.027780$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:42:17.062443$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:42:17.062485$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:42:17.062517$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:42:17.079418$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:42:17.079487$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:42:17.079546$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:45:08.137538$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:45:08.137581$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:45:08.137634$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:45:08.161580$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:45:08.161622$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:45:08.161657$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:45:08.177098$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:45:08.177158$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:45:08.177193$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:47:51.928940$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:47:51.928988$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:47:51.929046$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:47:52.089402$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:47:52.089451$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:47:52.089509$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:47:52.127403$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:47:52.127464$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:47:52.127497$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:49:03.768056$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:49:03.768099$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:49:03.768131$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:49:03.804845$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:49:03.804929$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:49:03.804985$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:49:03.839006$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:49:03.839070$root$INFO$192.168.3.133$none$none$verified DB with IDs$legal device.
+$2023-03-24 18:49:03.839126$root$INFO$192.168.3.133$192.168.3.217$33123$send db verify result$success.
+$2023-03-24 18:57:09.821403$root$INFO$192.168.3.217$192.168.3.133$33123$socket connect$success.
+$2023-03-24 18:57:09.821453$root$WARNING$192.168.3.133$none$none$verified DB with IDs$illegal device.
+$
