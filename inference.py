@@ -46,7 +46,8 @@ def inference():
     print(clf_lda.predict(X_test))
     '''    
     # Run model
-    clf_nn = load(MODEL_PATH_NN)
+    path_nn = '/home/jovyan/my-model/clf_nn.joblib'
+    clf_nn = load(path_nn)
     print("NN score and classification:")
     print(clf_nn.score(X_test, y_test))
     print(clf_nn.predict(X_test))
